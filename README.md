@@ -4,10 +4,17 @@
 
 I am a data enthusiast, and a big fan of Data Science and AI. 
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-44bd32?logo=python&logoColor=white&style=for-the-badge' />
+</p>
+
+## 🤝 Reach Me Out
+<p>
+  <a href="https://www.linkedin.com/in/hanwa">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 <!--
