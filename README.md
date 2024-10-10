@@ -9,6 +9,7 @@ I am a data enthusiast, and a big fan of Data Science and AI.
   <img alt="Python" src="https://img.shields.io/badge/Python-44bd32?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-02569B?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white&style=for-the-badge" />
 </p>
 
