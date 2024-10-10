@@ -1,4 +1,14 @@
-## Hi there 👋
+### Hi there 👋 This is Han. 
+
+### About Me
+
+I am a data enthusiast, and a big fan of Data Science and AI. 
+
+### ⚙️ Tech Stack
+
+<p>
+<img alt="Java" src="https://img.shields.io/badge/Java-44bd32?logo=java&logoColor=white&style=for-the-badge' />
+</p>
 
 <!--
 **Hann-WA/Hann-WA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
