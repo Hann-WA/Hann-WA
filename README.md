@@ -9,6 +9,14 @@ I am a data enthusiast, and a big fan of Data Science and AI.
   <img alt="Python" src="https://img.shields.io/badge/Python-44bd32?logo=python&logoColor=white&style=for-the-badge" />
 </p>
 
+### ⚙️ Tool
+<p>
+  <img alt="GoogleCollab" src="https://img.shields.io/badge/GoogleCollaboratory-F05032?logo=Google-Collaboratory&logoColor=white&style=for-the-badge" />
+  <img alt="VSCode" src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=Visual-Studio-Code&logoColor=white&style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-454545?logo=github&logoColor=white&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+</p>
+
 ### 🤝 Reach Me Out
 <p>
   <a href="https://www.linkedin.com/in/hanwa">
